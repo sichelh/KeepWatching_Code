@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46347a7fcfa86734786f54bc4071aef2, type: 3}
+  m_Name: ChessPuzzle_001
+  m_EditorClassIdentifier: 
+  initialPieces:
+  - type: 4
+    color: 0
+    boardPos: {x: 2, y: 4}
+  - type: 2
+    color: 0
+    boardPos: {x: 2, y: 1}
+  - type: 1
+    color: 0
+    boardPos: {x: 3, y: 2}
+  - type: 5
+    color: 0
+    boardPos: {x: 4, y: 4}
+  - type: 2
+    color: 0
+    boardPos: {x: 5, y: 5}
+  - type: 5
+    color: 0
+    boardPos: {x: 6, y: 1}
+  - type: 5
+    color: 0
+    boardPos: {x: 7, y: 1}
+  - type: 0
+    color: 0
+    boardPos: {x: 7, y: 0}
+  - type: 5
+    color: 1
+    boardPos: {x: 0, y: 4}
+  - type: 3
+    color: 1
+    boardPos: {x: 1, y: 3}
+  - type: 1
+    color: 1
+    boardPos: {x: 3, y: 3}
+  - type: 2
+    color: 1
+    boardPos: {x: 3, y: 7}
+  - type: 5
+    color: 1
+    boardPos: {x: 4, y: 5}
+  - type: 5
+    color: 1
+    boardPos: {x: 5, y: 6}
+  - type: 0
+    color: 1
+    boardPos: {x: 6, y: 6}
+  - type: 5
+    color: 1
+    boardPos: {x: 6, y: 4}
+  - type: 5
+    color: 1
+    boardPos: {x: 7, y: 5}
+  - type: 2
+    color: 1
+    boardPos: {x: 7, y: 7}
+  solutionMoves:
+  - pieceType: 4
+    from: {x: 2, y: 4}
+    to: {x: 4, y: 5}
+  - pieceType: 1
+    from: {x: 3, y: 2}
+    to: {x: 6, y: 5}

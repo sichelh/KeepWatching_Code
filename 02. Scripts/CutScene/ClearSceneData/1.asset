@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6bd1774c3dc22f46ac98b801f9f8543, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  SubTitle: 
+  WayList:
+  - Position: {x: 491.86172, y: 22.905838, z: 504.15314}
+    Rotation: {x: 7.770252, y: 157.34697, z: 359.99405}
+  - Position: {x: 491.9776, y: 22.636055, z: 500.71326}
+    Rotation: {x: 1.3072827, y: 211.25146, z: -0.0050959806}
+  - Position: {x: 491.50278, y: 22.751421, z: 498.80676}
+    Rotation: {x: 357.0445, y: 168.07367, z: -0.004084443}
+  CutTime: 1
+  IsEvent: 0
+  EventCode: -1
+  Voice: {fileID: 8300000, guid: 5220d08aef7ac3c49a26b04efafd6458, type: 3}
+  DelayTime: 0

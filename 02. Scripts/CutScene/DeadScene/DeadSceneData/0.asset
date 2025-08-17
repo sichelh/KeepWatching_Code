@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f431e9f7169f284bb360920f3c4edec, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  Name: "\uC774\uCABD\uC774\uC57C"
+  Id: 0
+  Descript: "\uD55C\uCABD\uB9CC \uBCF4\uB2E4\uAC04 \uC5B4\uB514\uC5D0\uC11C \uB2F9\uD560
+    \uC9C0 \uBAA8\uB985\uB2C8\uB2E4."
+  DeadPrefab: {fileID: 3924351106531817696, guid: 2d554ac9ffb06c34d9f1cd8afbab605c, type: 3}
+  OffSet: {x: 0, y: 1.6, z: 0.5}
+  LookOffset: {x: 0, y: 1.56, z: 0}

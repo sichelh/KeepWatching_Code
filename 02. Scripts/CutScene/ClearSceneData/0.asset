@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6bd1774c3dc22f46ac98b801f9f8543, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  SubTitle: 
+  WayList:
+  - Position: {x: 491.99924, y: 23.942616, z: 516.08203}
+    Rotation: {x: 5.4325657, y: 182.92398, z: 359.99402}
+  - Position: {x: 491.36624, y: 23.705597, z: 513.71466}
+    Rotation: {x: 5.4325657, y: 182.92398, z: 359.99402}
+  - Position: {x: 492.79227, y: 23.490654, z: 511.26163}
+    Rotation: {x: 3.9199853, y: 171.09842, z: 359.99396}
+  - Position: {x: 491.57785, y: 23.271177, z: 509.47284}
+    Rotation: {x: 3.36994, y: 187.18698, z: 359.9939}
+  - Position: {x: 492.38824, y: 22.977186, z: 506.45764}
+    Rotation: {x: 4.607523, y: 162.98518, z: 359.9939}
+  - Position: {x: 491.86172, y: 22.905838, z: 504.15314}
+    Rotation: {x: 7.770252, y: 157.34697, z: 359.99405}
+  CutTime: 2
+  IsEvent: 0
+  EventCode: -1
+  Voice: {fileID: 8300000, guid: cf72d233db185fa49a6d81143ab320d0, type: 3}
+  DelayTime: 0
